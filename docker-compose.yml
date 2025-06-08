@@ -8,8 +8,8 @@ services:
     container_name: xgproyect-v3
     restart: always
     ports:
-      - 38101:80
-      - 38102:443
+      - 38100:80
+      - 38101:443
     volumes:
       - .:/var/www/html
     depends_on:
