@@ -2,6 +2,7 @@
 # application
 #
 config/config.php
+resources/images/*
 
 #
 # public
