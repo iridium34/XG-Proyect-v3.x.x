@@ -3,7 +3,7 @@
 $lang = [
     // resources
     'metal' => 'Metal',
-    'crystal' => 'Crystal',
+    'crystal' => 'Kristall',
     'deuterium' => 'Deuterium',
     'dark_matter' => 'Dark Matter',
     'energy' => 'Energy',
